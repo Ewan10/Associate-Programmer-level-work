@@ -1,0 +1,3 @@
+# Associate-Programmer-level-work
+Extensive work on Java from the book "Thinking in Java",B. Eckel covering strings-regular expressions, interfaces, inheritance, polymorphism, 
+inner classes, RTTI, Generics, Containers-Collections, arrays, exceptions... 
