@@ -1,2 +1,2 @@
 # RTL Hardware Design with VHDL Programming
-
+Programming in VHDL with methodologies that preserve the scalability, the extensibility, the maintainability, the portability and the efficiency of code. Creation of sequential circuits, finite state machines, circuits with parameterized design and register transfer methodology where the registers of the system are separated from the the part that routes the signals and determines when or which of the registers will operate. The work is from the exercices and after thorough study of Pong Chu's title of "RTL Hardware Design using VHDL".
